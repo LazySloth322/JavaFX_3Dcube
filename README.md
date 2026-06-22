@@ -50,7 +50,7 @@ JavaFX version 23.0.1
 
 After successful compilation just enter X, Y, Z degree and, if you want, change scale of cube. To confirm and see the result of entered values just press "Enter!" button.
 
-![Figure 1. Working program](https://github.com/titemov/JavaFX_3Dcube/blob/main/javafx_3dcube.png)
+![Figure 1. Working program](https://github.com/LazySloth322/JavaFX_3Dcube/blob/main/javafx_3dcube.png)
 
 After pressing the button you will see __projection__ of three-dimensional cube.
 
